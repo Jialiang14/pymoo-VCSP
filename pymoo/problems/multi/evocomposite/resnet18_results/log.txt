@@ -1,0 +1,4 @@
+2024-01-31 02:40:24,975 accuracy: 0.018000001087784767 attack_success_rate: 0.970873786136508 time_usage: 12.541861534118652 l2_norm: tensor(65.2351, device='cuda:0', grad_fn=<DivBackward0>)
+2024-01-31 02:41:34,065 accuracy: 0.012000000104308128 attack_success_rate: 0.9776951670646667 time_usage: 10.950284004211426 l2_norm: tensor(53.1894, device='cuda:0', grad_fn=<DivBackward0>)
+2024-01-31 02:42:17,357 accuracy: 0.012000000104308128 attack_success_rate: 0.9777777791023254 time_usage: 10.856846809387207 l2_norm: tensor(57.8414, device='cuda:0', grad_fn=<DivBackward0>)
+2024-01-31 02:43:03,601 accuracy: 0.006000000052154064 attack_success_rate: 0.9848484843969345 time_usage: 10.134093284606934 l2_norm: tensor(43.9614, device='cuda:0', grad_fn=<DivBackward0>)
